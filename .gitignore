@@ -1,0 +1,22 @@
+# Environnement virtuel
+.venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Fichiers système
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Modèles (si volumineux)
+models/
+
+# Données (optionnel selon le projet)
+# data/
+data/
